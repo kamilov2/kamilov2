@@ -25,7 +25,7 @@
 
 ### Обо мне
 
-- 🔭 В настоящее время работаю в **[Naqsh Soft](https://naqshsoft.uz)**
+- 🔭 В настоящее время работаю в **[GEEKS ANDIJAN](https://geeksandijan.uz)**
 - 🛠 Увлечен **Чистым Кодом**, **Шаблонами Проектирования** и **Масштабируемыми Архитектурами**
 - 🌐 Стремлюсь решать сложные задачи backend-разработки с использованием современных технологий и лучших практик.
 - 👨‍🏫 Наставляю младших разработчиков и веду технические проекты.
@@ -136,7 +136,7 @@
 
 ### 📫 Связаться со мной
 
-Свяжитесь со мной через [Telegram](https://t.me/kamilov_jasur), [LinkedIn](https://www.linkedin.com/in/kamilov_jasur/), или [Email](mailto:your.email@example.com).
+Свяжитесь со мной через [Telegram](https://t.me/kamilov_jasur), [LinkedIn](https://www.linkedin.com/in/kamilov_jasur/), или [Email](mailto:jasurkamilov7279@gmail.com).
 
 ---
 
