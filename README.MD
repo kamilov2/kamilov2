@@ -25,7 +25,7 @@
 
 ### Обо мне
 
-- 🔭 В настоящее время работаю в **[GEEKS ANDIJAN](https://geeksandijan.uz)**
+- 🔭 В настоящее время работаю в **[JOWI](https://www.jowi.club/)**
 - 🛠 Увлечен **Чистым Кодом**, **Шаблонами Проектирования** и **Масштабируемыми Архитектурами**
 - 🌐 Стремлюсь решать сложные задачи backend-разработки с использованием современных технологий и лучших практик.
 - 👨‍🏫 Наставляю младших разработчиков и веду технические проекты.
@@ -171,7 +171,7 @@
 
 ### About Me
 
-- 🔭 Currently working at **[Naqsh Soft](https://naqshsoft.uz)**
+- 🔭 Currently working at **[JOWI](https://www.jowi.club/)**
 - 🛠 Passionate about **Clean Code**, **Design Patterns**, and **Scalable Architectures**
 - 🌐 Seeking to solve complex backend challenges with modern technologies and best practices.
 - 👨‍🏫 Mentoring junior developers and leading technical projects.
