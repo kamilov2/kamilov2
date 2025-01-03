@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Kamilov+Jasur;Я+старший+Backend+разработчик)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Kamilov+Jasur;Я+средний+Backend+разработчик)](https://git.io/typing-svg)
 
 </br>
 
@@ -144,7 +144,7 @@
 
 ---
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Kamilov+Jasur;I+am+a+Senior+Backend+Developer)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Kamilov+Jasur;I+am+a+Middle+Backend+Developer)](https://git.io/typing-svg)
 
 </br>
 
