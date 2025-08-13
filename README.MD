@@ -1,47 +1,49 @@
-<!-- ====== TOP BANNER (анимированный wave + fadeIn) ====== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0ea5e9,100:22c55e&text=%F0%9F%91%8B%20Jasurbek%20Kamilov&fontColor=ffffff&fontSize=44&fontAlignY=30&animation=fadeIn" width="100%" />
+<!-- ========= TOP BANNER: dark-red wave with fadeIn ========= -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:7f1d1d,50:b91c1c,100:dc2626&text=Jasurbek%20Kamilov%20%7C%20Senior%20Backend%20Engineer&fontColor=ffffff&fontSize=38&fontAlignY=35&animation=fadeIn" width="100%" />
 
+<!-- ========= TYPING STRIP ========= -->
 <p align="center">
-  <b>Senior Backend Engineer</b><br/>
-  <i>Отказоустойчивые • Высоконагруженные • Безопасные API</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=18&duration=2300&pause=600&color=DC2626&center=true&vCenter=true&width=900&lines=Отказоустойчивые+%E2%80%A2+Высоконагруженные+%E2%80%A2+Безопасные+API;Python+%2B+Go+%7C+FastAPI%2C+gRPC%2C+Kafka%2C+K8s%2C+PostgreSQL;SLA+99.995%E2%80%85%7C%E2%80%85SLO%E2%80%85%7C%E2%80%85Observability%E2%80%85%7C%E2%80%85Security" alt="typing banner" />
 </p>
 
-<!-- ====== ANIMATED TYPING STRIP ====== -->
+<!-- ========= CONTACTS (icons) ========= -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=18&duration=2500&pause=800&center=true&vCenter=true&width=950&lines=Строю+сервисы%2C+которые+работают+даже+когда+кофе+закончился;Python+%2B+Go+%7C+FastAPI%2C+gRPC%2C+Kafka%2C+K8s%2C+PostgreSQL;SLA+99.995%2C+SLO%2C+Observability%2C+Security+by+default" alt="typing banner" />
+  <a href="https://t.me/your_username" title="Telegram">
+    <img src="https://skillicons.dev/icons?i=telegram" height="28" />
+  </a>&nbsp;
+  <a href="https://github.com/kamilov2" title="GitHub">
+    <img src="https://skillicons.dev/icons?i=github" height="28" />
+  </a>&nbsp;
+  <a href="https://linkedin.com/in/your_username" title="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="28" />
+  </a>
 </p>
 
-<!-- ====== CONTACTS (чёткие иконки) ====== -->
+<!-- ========= RED BLINK DIVIDER ========= -->
 <p align="center">
-  <a href="https://t.me/your_username"><img src="https://skillicons.dev/icons?i=telegram" height="28" alt="Telegram"/></a>&nbsp;
-  <a href="https://github.com/your_username"><img src="https://skillicons.dev/icons?i=github" height="28" alt="GitHub"/></a>&nbsp;
-  <a href="https://linkedin.com/in/your_username"><img src="https://skillicons.dev/icons?i=linkedin" height="28" alt="LinkedIn"/></a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&section=header&height=2&color=0:dc2626,100:7f1d1d&animation=blink" width="60%" />
 </p>
 
-<!-- ====== ANIMATED DIVIDER (минимализм) ====== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&section=header&height=2&color=0:22c55e,100:0ea5e9&animation=blink" width="60%" alt="divider"/>
-</p>
-
-### 🧑‍💻 Коротко обо мне
-- 5+ лет строю распределённые бэкенд-системы для финтеха и AI.
+### 🧑‍💻 О себе
+- 5+ лет строю распределённые бэкенд-системы (финтех, AI).
 - Языки: **Python**, **Go** (JS/TS — по делу).
-- Люблю микросервисы, умею реанимировать монолиты.
-- «Работает у меня» считаю баг-репортом.
+- Микросервисы люблю, монолиты чиню.  
+- «Работает у меня» — это баг-репорт.
 
 ### 🧩 Ключевые компетенции
 - **System Design**: масштабируемые API, идемпотентность, back-pressure, event-driven.
-- **Highload**: Kafka/Redis Streams, горизонтальный скейлинг, кэш-слои, профилирование.
+- **Highload**: Kafka/Redis Streams, кэш-слои, горизонтальный скейл, профилирование.
 - **Надёжность**: SLO/SLA, graceful degradation, circuit breaker, rate limiting.
-- **Observability**: метрики/трейсы/логи (Prometheus, Grafana, Jaeger), SLO-дашборды.
-- **Security**: OAuth2/OIDC, RBAC, OPA-политики, audit-лог, секрет-менеджмент.
-- **DevEx**: стандартизированные CI/CD, темплейты сервисов, developer portals.
+- **Observability**: Prometheus, Grafana, Jaeger, SLO-дашборды.
+- **Security**: OAuth2/OIDC, RBAC, OPA, audit-лог, secret-management.
+- **DevEx**: стандартизированные CI/CD (Actions + Terraform + Helm), шаблоны сервисов.
 
-<!-- ====== STACK (кристально-чёткие иконки + лёгкая “анимация” сверху) ====== -->
+<!-- ========= STACK HEADER (animated) ========= -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=16&duration=2200&pause=1200&center=true&vCenter=true&width=500&lines=Tech+Stack" alt="stack typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=16&duration=2200&pause=1200&color=B91C1C&center=true&vCenter=true&width=240&lines=Tech+Stack" />
 </p>
 
+<!-- ========= STACK ICONS (crisp) ========= -->
 **Языки**  
 <img src="https://skillicons.dev/icons?i=python,go,ts,nodejs&perline=12" alt="langs" />
 
@@ -55,33 +57,49 @@
 **DevOps / Cloud / IaC / Observability**  
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,terraform,githubactions,prometheus,grafana,linux,bash&perline=12" alt="devops" />
 
-<!-- ====== METRICS / STATS (динамика и анимация при загрузке) ====== -->
+<!-- ========= METRICS / STATS (custom dark-red theme) ========= -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&rank_icon=github&hide_border=true" height="150" />
-  <img src="https://streak-stats.demolab.com?user=your_username&hide_border=true" height="150" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your_username&theme=flat&no-frame=true&margin-w=12" alt="trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kamilov2&show_icons=true&hide_border=true&bg_color=0d1117&title_color=dc2626&text_color=cbd5e1&icon_color=b91c1c&rank_icon=github" height="150" />
+  <img src="https://streak-stats.demolab.com?user=kamilov2&hide_border=true&background=0D1117&ring=DC2626&fire=B91C1C&currStreakLabel=F87171" height="150" />
 </p>
 
-<!-- ====== ACHIEVEMENTS ====== -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kamilov2&theme=onestar&no-frame=true&margin-w=14" />
+</p>
+
+<!-- ========= ACTIVITY GRAPH (animated draw on load) ========= -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kamilov2/kamilov2/main/graph.svg" alt="activity graph" />
+</p>
+
+<!-- ========= 3D CONTRIBUTIONS (auto-updated SVG) ========= -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kamilov2/kamilov2/main/profile-3d-contrib.svg" height="300" alt="3D contributions"/>
+</p>
+
+<!-- ========= SNAKE (animated SVG) ========= -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kamilov2/kamilov2/output/snake.svg" alt="snake animation"/>
+</p>
+
+<!-- ========= ACHIEVEMENTS ========= -->
 ### 🚀 Достижения (в цифрах)
-- 🧠 **AI в проде**: LLM (GPT-4/Claude) в поиск/генерацию/чат; p95 latency **<300 мс**, **100k+** MAU.
+- 🧠 **AI в проде**: LLM (GPT-4/Claude) в поиск/генерацию/чат; p95 **<300 мс**, **100k+** MAU.
 - 📡 **gRPC-mesh**: Envoy + gRPC + Prometheus + Jaeger — наблюдаемость на уровне endpoint.
 - 🏗 **Микросервисы**: event-driven (Kafka + Redis Streams) для **40+** сервисов → **+60%** пропускной способности.
 - 🔁 **CI/CD**: GitHub Actions + Terraform + Helm → релизы **2 ч → 15 мин**.
-- 💸 **Финансы**: −**35%** AWS затрат (автоскейлинг, ревизия S3/EC2/CloudWatch).
+- 💸 **Финансы**: −**35%** AWS-затрат (автоскейлинг, ревизия S3/EC2/CloudWatch).
 - 🛡 **Security**: RBAC, OPA, централизованный audit-лог, OAuth2 в **100%** сервисов.
 - 📈 **Нагрузка**: **70M+** событий/сутки, SLA **99.995%**, uptime **365/365**.
 - 👥 **Лидерство**: наставничество **15+** инженеров, архитектурные ревью, найм.
 
 ### 🧪 Выбранные проекты
-- **AI Email Template Generator** — LLM-генерация писем, анти-галлюцинации, A/B-метрики, плагин-архитектура промптов.
-- **FinTech Event Bus** — унифицированная шина (Kafka), идемпотентные консьюмеры, exactly-once через transactional producer + outbox.
-- **gRPC Platform** — стандарты proto, кодоген, canary/blue-green, автогенерация SDK для Python/Go/TS.
-- **K8s Observability Pack** — Helm-чарты Prometheus/Grafana/Tempo/Loki, SLO-дашборды, алерты по error-budget.
+- **AI Email Template Generator** — LLM-генерация; анти-галлюцинации; A/B-метрики; плагин-архитектура промптов.
+- **FinTech Event Bus** — Kafka-шина; идемпотентные консьюмеры; exactly-once via transactional producer + outbox.
+- **gRPC Platform** — стандарты proto, кодоген, canary/blue-green, автоген SDK (Python/Go/TS).
+- **K8s Observability Pack** — Helm чарты Prometheus/Grafana/Tempo/Loki; SLO-дашборды; алерты по error-budget.
 
-> Нужны детали — покажу диаграммы и метрики (без NDA).
+> Хочется деталей — покажу диаграммы и метрики (без NDA).
 
 ### 🛡️ Как я работаю
 - **Код**: типизированный Python/Go, линтеры, pre-commit, ADR.
@@ -92,25 +110,19 @@
 ### 🎯 Чем помогу за 2–4 недели
 - Архитектура и PoC highload-сервиса (FastAPI/Go + Kafka + Postgres/Redis).
 - Наблюдаемость с SLO/SLI и алертингом.
-- Стандартизация CI/CD и шаблонов сервисов.
+- Стандартизация CI/CD и темплейтов сервисов.
 - Аудит облачных расходов и оптимизация.
 
-<!-- ====== FUN FACT (expand) ====== -->
+<!-- ========= FUN (expand) ========= -->
 <details>
 <summary>🍞 Fun fact (кликни)</summary>
 CAP-теорему объясню на примере тандыра и самсы. За CE — «горячо и быстро», за AP — «самса всегда будет, но иногда не там, где ждёте». 🙂
 </details>
 
-<!-- ====== ANIMATED CONTRIBUTION SNAKE (требует workflow, см. ниже) ====== -->
-<!-- После настройки экшена обнови путь на свой репозиторий -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your_username/your_username/output/snake.svg" alt="snake animation"/>
-</p>
+<!-- ========= FOOTER WAVE ========= -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:dc2626,100:7f1d1d" width="100%" />
 
-<!-- ====== FOOTER WAVE ====== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:22c55e,100:0ea5e9" width="100%" />
-
-<!-- Badges -->
+<!-- ========= Badges ========= -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your_username&style=for-the-badge" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=kamilov2&style=for-the-badge&color=7F1D1D" />
 </p>
