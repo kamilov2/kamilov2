@@ -5,7 +5,7 @@
    ========================================================= -->
 
 <!-- ====== TOP: animated wave banner ====== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:7f1d1d,50:b91c1c,100:dc2626&text=Jasurbek%20Kamilov&desc=Senior%20Backend%20Engineer&fontColor=ffffff&fontSize=36&fontAlignY=35&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:7f1d1d,50:b91c1c,100:dc2626&text=Jasurbek%20Kamilov&desc=Middle%20Backend%20Engineer&fontColor=ffffff&fontSize=36&fontAlignY=35&descAlignY=55&animation=fadeIn" width="100%" />
 
 <!-- ====== TYPING STRIP ====== -->
 <p align="center">
