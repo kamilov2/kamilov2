@@ -91,8 +91,3 @@ Backend & DevOps инженер (5+ года).
 
 
 
-Enhancement 48 - 1203110420
-
-Enhancement 49 - 1020816784
-
-Enhancement 50 - 1435048954
